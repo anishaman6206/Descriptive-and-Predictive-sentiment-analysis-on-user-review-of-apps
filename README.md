@@ -1,4 +1,4 @@
-Project Title: Comparative Sentiment Analysis and Prediction Accuracy of App Reviews Using Machine Learning and Deep Learning
+Project Title: Comparing Sentiment Analysis and Prediction Accuracy of App Reviews Using Machine Learning and Deep Learning
 
 In this machine learning project, I compared two apps by analyzing their user reviews' sentiments and predicting sentiment accuracy using various ML and deep learning approaches.
 
