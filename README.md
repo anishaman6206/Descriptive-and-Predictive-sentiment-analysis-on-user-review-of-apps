@@ -8,9 +8,9 @@ I compared both apps by examining the number of words and characters for positiv
 
 The combined reviews from both apps were split into training and testing sets for model evaluation.
 
-Performed feature extraction with TF-IDF and Word2Vec embeddings, hyperparameter tuning using GridSearchCV, and 7-fold CV
+Performed feature extraction with TF-IDF and Word2Vec embeddings, hyperparameter tuning using GridSearchCV, and 7-fold Cross-Validation
 
-Using TF-IDF vectorizer and Word2Vec embeddings seperately, I trained 6 different ML models, including SVM, Multinomial Naive Bayes, Gaussian Naive Bayes, XGBoost, Random Forest, and Logistic Regression, to predict review sentiments.
+Using TF-IDF vectorizer and Word2Vec embeddings separately, I trained 6 different ML models, including SVM, Multinomial Naive Bayes, Gaussian Naive Bayes, XGBoost, Random Forest, and Logistic Regression, to predict review sentiments.
 
 I also employed deep learning models, including CNN and LSTM, to compare their performance with the ML models.
 
